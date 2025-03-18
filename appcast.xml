@@ -3,15 +3,12 @@
     <channel>
         <title>Overlord Screen Utility</title>
         <item>
-            <title>1.0.2</title>
-            <pubDate>Mon, 03 Mar 2025 15:42:40 -0500</pubDate>
-            <sparkle:version>1.0.2</sparkle:version>
-            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <title>1.0.3</title>
+            <pubDate>Tue, 18 Mar 2025 19:09:39 -0400</pubDate>
+            <sparkle:version>1.0.3</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/eddier343/OverlordMacScreenUtilReleases/releases/download/prod/overlord-screen-util-installer.dmg" 
-                      length="11610056" 
-                      type="application/octet-stream" 
-                      sparkle:edSignature="MNetL7AT+ZjyqCOdwOITfWxi2BpaqIQdKtjhrooeMG+UeBiVPZT1xcRn2nMo/SJXS7jo813o3vIyMNpOwmwQAw=="/>
+            <enclosure url="https://github.com/eddier343/OverlordMacScreenUtilReleases/releases/download/prod/overlord-mac-screen-util-installer.dmg" length="11568561" type="application/octet-stream" sparkle:edSignature="Ne0yuopXBXIbfCaSH4t4h8jdu40tyBaXAqlWVSmbWIy4jBkApv8itiELBL7zqobkN0426lkQ7HyBbKTmu+KOCA=="/>
         </item>
     </channel>
 </rss>
