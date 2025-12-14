@@ -1,2 +1,2 @@
-# OverlordMacScreenUtilReleases
-Release versions for the Overlord Mac screen time utility.
+# Overlord Mac App
+Release versions for the Overlord Mac app.
