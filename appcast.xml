@@ -3,12 +3,12 @@
     <channel>
         <title>Overlord</title>
         <item>
-            <title>1.1.4</title>
-            <pubDate>Wed, 17 Dec 2025 17:00:31 -0500</pubDate>
-            <sparkle:version>1.1.4</sparkle:version>
-            <sparkle:shortVersionString>1.1.4</sparkle:shortVersionString>
+            <title>1.1.5</title>
+            <pubDate>Wed, 31 Dec 2025 16:44:47 -0500</pubDate>
+            <sparkle:version>1.1.5</sparkle:version>
+            <sparkle:shortVersionString>1.1.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/eddier343/OverlordMacScreenUtilReleases/releases/download/prod/overlord-installer.dmg" length="18974389" type="application/octet-stream" sparkle:edSignature="yIRsJB4xYjXFVo8WciQQG+swCwzJ6mm103vSCcWVvP0JIhBwozjuvDbItPJSOwi/Nd+VPOzlcUhICzu5tGrkDg=="/>
+            <enclosure url="https://github.com/eddier343/OverlordMacScreenUtilReleases/releases/download/prod/overlord-installer.dmg" length="20309015" type="application/octet-stream" sparkle:edSignature="tRM6rzI9dkJNQhbKKEQbzjEP7foyYEKGFo6PwnCWb3MT/CzXV90MmI5H68KwtioF0JONU9J89psLJdS/8oxAAg=="/>
         </item>
     </channel>
 </rss>
