@@ -8,7 +8,7 @@
             <sparkle:version>1.1.8</sparkle:version>
             <sparkle:shortVersionString>1.1.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/eddier343/OverlordMacScreenUtilReleases/releases/download/v1.1.9/overlord-installer.dmg" length="21482375" type="application/octet-stream" sparkle:edSignature="0ixV0qx7xWcsKp8Zp/BHRLmnimv93ApzCWI1M/1Me6hwZ6BxSqI4o4tS/vNl2ucE89ySmIrFpT3grAh43rcXDg=="/>
+            <enclosure url="https://github.com/eddier343/OverlordMacScreenUtilReleases/releases/download/prod/overlord-installer.dmg" length="21482375" type="application/octet-stream" sparkle:edSignature="0ixV0qx7xWcsKp8Zp/BHRLmnimv93ApzCWI1M/1Me6hwZ6BxSqI4o4tS/vNl2ucE89ySmIrFpT3grAh43rcXDg=="/>
         </item>
     </channel>
 </rss>
